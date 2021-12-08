@@ -12,6 +12,10 @@ To run the models, you must first configure the environment:
 
 - Copy some query images. Go to the directory ```FB_page_qry/``` and run: ```python3 copy_fb_query_images.py```
 
+## Checkpoints
+
+Download all the chekpoints from my [gdrive](https://drive.google.com/drive/folders/1MnTm7OIPYuMMuc_uij7_bvT7_8NCxP-o) and locate them inside ```checkpoints/``` directory.
+
 
 ## Phase 1 inference
 
