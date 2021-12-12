@@ -30,7 +30,7 @@ Follow the [README.md](./phase1_scripts) instructions at: ```phase1_scripts/READ
 Follow the [README.md](./phase2_scripts) instructions at: ```phase2_scripts/README.md```
 
 
-## Training the Final Ensemble Models 
+## Training of Final Ensemble Models 
 
 Follow the [README.md](./ensemble_training_scripts) instructions at: ```ensemble_training_scripts/README.md```
 
