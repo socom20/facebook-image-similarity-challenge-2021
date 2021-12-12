@@ -35,7 +35,7 @@ modules/ImageNet_renamer.py
 
 ## DeepFake competition
 
-This dataset was not used for the training of the models used in the final solution of the competition.
+This dataset was not used to train the models used in the final solution of the competition. If you only want to reproduce our results, it is not necessary to download it.
 
 - Images folder: <br />
 ```
