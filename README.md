@@ -5,7 +5,7 @@ This repository contains the code for our solution to the Facebook AI Image Simi
 https://www.drivendata.org/competitions/85/competition-image-similarity-2-final/leaderboard/
 
 The solution is described in the paper hosted on arXiv.org: <br /> 
-https://arxiv.org/abs/2112.03415
+https://arxiv.org/abs/2112.03415v1
 
 
 ## Environment Setup
@@ -30,6 +30,11 @@ Follow the [README.md](./phase1_scripts) instructions at: ```phase1_scripts/READ
 Follow the [README.md](./phase2_scripts) instructions at: ```phase2_scripts/README.md```
 
 
-## Training the model
+## Training the Final Ensemble Models 
+
+Follow the [README.md](./ensemble_training_scripts) instructions at: ```ensemble_training_scripts/README.md```
+
+
+## Training your model
 
 Follow the [README.md](./training_scripts) instructions at: ```training_scripts/README.md```

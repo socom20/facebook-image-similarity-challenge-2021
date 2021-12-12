@@ -75,7 +75,7 @@ class ArgsT26(Args):
     
     n_facebook_samples   = 1_000_000  # TotalSamples = 1_000_000 Facebook's training dataset
     n_imagenet_samples   =         0  # TotalSamples = 1_431_167 ImageNet
-    n_frm_face_samples   =         0  # TotalSamples = 476_584 FrameFaces (Google's DeepFake dataset)
+    n_frm_face_samples   =         0  # TotalSamples = 476_584 FrameFaces (DeepFake dataset, This dataset was not used for the training of the models used in the final solution of the competition.)
     
     arc_classnum         = n_facebook_samples + n_imagenet_samples + n_frm_face_samples
     arc_devices_v        = [0]

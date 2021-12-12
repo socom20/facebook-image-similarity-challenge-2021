@@ -33,7 +33,9 @@ The images were renamed using:  <br />
 modules/ImageNet_renamer.py
 ```
 
-## Google DeepFake competition
+## DeepFake competition
+
+This dataset was not used for the training of the models used in the final solution of the competition.
 
 - Images folder: <br />
 ```
